@@ -1,36 +1,18 @@
-# Repo Name
+# Akshat Gupta
 
-[![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/akshatvg/<Repo>?logo=github&style=social)](https://github.com/akshatvg/) [![GitHub last commit](https://img.shields.io/github/last-commit/akshatvg/<Repo>?style=social&logo=git)](https://github.com/akshatvg/) [![GitHub stars](https://img.shields.io/github/stars/akshatvg/<Repo>?style=social)](https://github.com/akshatvg/<Repo>/stargazers) [![GitHub forks](https://img.shields.io/github/forks/akshatvg/<Repo>?style=social&logo=git)](https://github.com/akshatvg/<Repo>/network)
-
-Project description comes here.
+I am an experienced programmer with a demonstrated history of working in the computer software industry. I am also a strong business development professional with an aim to work on Web Development projects. I am also keen on working in the Digital Marketing and Search Engine Optimisation sector. 
 
 <p align="center">
 <a href="#!">
-<img src="https://github.com/akshatvg/<Repo>/blob/master/Assets/app-icon-64%402x.png" width="120px" height="120px" alt="<Repo> Logo"/>
+<img src="https://www.akshatvg.com/assets/img/Public_Speaking_akshatvg.jpg" height="240px" alt="Akshat Gupta"/>
 </a>
 </p>
 
-![Generic badge](https://img.shields.io/badge/Random-Swag-orange) 
-
-#### Link for [demo](#!) 
-[![Generic badge](https://img.shields.io/badge/view-demo-orange)](#!)
+![Generic badge](https://img.shields.io/badge/Akshat-Gupta-orange) 
 
 ## Useful Links
 
-- [Actual Website](#!)
-
-## Requirements
-
-[![GitHub top language](https://img.shields.io/github/languages/top/akshatvg/<Repo>?logo=javascript&style=social)](https://github.com/akshatvg/)
-
-The source code of this project is written in **`HTML/CSS/JS`**. So, you do not require anything extra to run this project.
-
-## Instructions
-
-[![chrome](https://img.shields.io/badge/Open-index.html-lightgrey.svg?logo=google-chrome&style=popout&logoColor=red)](#!)
-
-Extract the folder and run `index.html`
-
+- [All my social accounts](https://linktr.ee/akshatvg)
 
 ## Need help?
 
@@ -76,18 +58,14 @@ ______      _               _   _               _
 
 ```
 
-## License
-
-**MIT &copy; [Akshat Gupta](https://github.com/akshatvg/<Repo>/blob/master/LICENSE)**
-
-[![GitHub license](https://img.shields.io/github/license/akshatvg/<Repo>?style=social&logo=github)](https://github.com/akshatvg/<Repo>/blob/master/LICENSE) [![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
+[![Twitter Follow](https://img.shields.io/twitter/follow/akshatvg?style=social)](https://twitter.com/akshatvg)
 
 ---------
 
 ```javascript
 
-if (youEnjoyed) {
-    starThisRepository();
+if (youLikedMyProfile) {
+    contactMeOnLinkedIn();
 }
 
 ```

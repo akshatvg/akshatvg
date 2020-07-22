@@ -11,54 +11,10 @@ I am an experienced programmer with a demonstrated history of working in the com
 ![Generic badge](https://img.shields.io/badge/Akshat-Gupta-orange) 
 
 ## My Tech Stack :computer:
-<table>
-<tbody>
-<tr>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/DVKjwFZ/html-css-js.jpg" alt="HTML, CSS, JS"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/wswH7fR/React-JS.png" alt="React"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/MDrwXfD/bootstrap-social.png" alt="Bootstrap">
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/sF14jHV/JQuery.png" alt="JQuery"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/mJBqpwQ/materialize-css.png" alt="MaterializeCSS"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/6sQcHQ6/zurb-foundation.png" alt="Zurb Foundation">
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/J56YgGW/azure.jpg" alt="Azure"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/0jvMkQt/heroku.png" alt="Heroku"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/LQSwVCG/Git-Icon-1788-C.png" alt="Git">
-</td>
-</tr>
-<tr>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/7NLMPr0/flutter-lockup-c13da9c9303e26b8d5fc208d2a1fa20c1ef47eb021ecadf27046dea04c0cebf6.png" alt="Flutter"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://i.ibb.co/VQn6bqq/Amazon-Web-Services-logo-AWS.png" alt="AWS"> 
-</td>
-<td align="center" width="20%">
-<img height=80px src="https://static.djangoproject.com/img/logos/django-logo-positive.png" alt="Django">
-</td>
-</tr>
-</tbody>
-</table>
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Zurb_Foundation-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Azure-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Heroku-pink?style=for-the-badge">  <img src="https://img.shields.io/badge/-SEO-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-SEM-purple?style=for-the-badge">
+
+## What I Am Learning :books:
+<img src="https://img.shields.io/badge/-Flutter-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Django-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
 
 ## My Certifications :arrow_down:
 - [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) (Credential ID: P7V 2QN 63L).

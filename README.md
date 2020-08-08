@@ -15,14 +15,10 @@ I'm always open to have a talk about anything. I love awesome contributions and 
 ![Generic badge](https://img.shields.io/badge/Akshat-Gupta-orange) 
 
 ## My Tech Stack :computer:
-<a href="#!" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Zurb_Foundation-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Azure-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Heroku-pink?style=for-the-badge">  <img src="https://img.shields.io/badge/-SEO-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-SEM-purple?style=for-the-badge">
-</a>
 
 ## What I Am Learning :books:
-<a href="#!" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/-Flutter-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Django-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
-</a>
 
 ## My Certifications :arrow_down:
 - [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) (Credential ID: P7V 2QN 63L).

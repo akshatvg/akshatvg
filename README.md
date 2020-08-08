@@ -1,6 +1,10 @@
 # Akshat Gupta 👨🏻‍💻
 
-I am an experienced programmer with a demonstrated history of working in the computer software industry. I am also a strong business development professional with an aim to work on **Web Development** & **Cloud Computing** projects. I am also keen on working in the **Digital Marketing** and **Search Engine Optimisation** sector.
+I am a **Software Developer** with a demonstrated history of working in the **Web Development** and **Cloud Computing** Domains. I am also a strong business development professional with plenty of experience in the **Marketing** (Digital Marketing, SEO, SEM & Offline Marketing) and **Management** (Operations, Events, Sponsorship & Content) sectors.
+
+When I am not coding, I am organising or taking part in workshops, webinars & hackathons, writing blogs, solving doubts and mentoring students.
+
+I'm always open to have a talk about anything. I love awesome contributions and hence look forward to your **issues** and **pull requests**.
 
 <p align="center">
 <a href="https://www.akshatvg.com">
@@ -11,10 +15,14 @@ I am an experienced programmer with a demonstrated history of working in the com
 ![Generic badge](https://img.shields.io/badge/Akshat-Gupta-orange) 
 
 ## My Tech Stack :computer:
+<a href="#!" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Zurb_Foundation-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Azure-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Heroku-pink?style=for-the-badge">  <img src="https://img.shields.io/badge/-SEO-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-SEM-purple?style=for-the-badge">
+</a>
 
 ## What I Am Learning :books:
+<a href="#!" style="text-decoration: none;">
 <img src="https://img.shields.io/badge/-Flutter-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Django-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
+</a>
 
 ## My Certifications :arrow_down:
 - [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) (Credential ID: P7V 2QN 63L).

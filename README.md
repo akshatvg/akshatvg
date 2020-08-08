@@ -22,7 +22,7 @@ I'm always open to have a talk about anything. I love awesome contributions and 
 
 ## My Certifications :arrow_down:
 - [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) (Credential ID: P7V 2QN 63L).
-- [Microsoft Student Partner](https://studentambassadors.microsoft.com/en-us/Account/DisplayMSPCertificate?url=f019080058474f15b10d800e326da1ce)
+- [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/certificate/e14d1cd4-183c-43d3-aaad-34d05c6a82b6)
 - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/7PLZLGHTCPFZ) (Credential ID: 7PLZLGHTCPFZ).
 
 ## My Activities :mailbox_with_mail:

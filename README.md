@@ -1,6 +1,6 @@
 # Akshat Gupta 👨🏻‍💻
 
-I am a **Software Developer** with a demonstrated history of working in the **Web Development** and **Cloud Computing** Domains. I am also a strong business development professional with plenty of experience in the **Marketing** (Digital Marketing, SEO, SEM & Offline Marketing) and **Management** (Operations, Events, Sponsorship & Content) sectors.
+I'm a **Software Developer** experienced in Frontend **Web Development**, **Cloud Computing**, **SEO**, **Digital Marketing**, **SEM** & **Offline Marketing**. 
 
 When I am not coding, I am organising or taking part in workshops, webinars & hackathons, writing blogs, solving doubts and mentoring students.
 
@@ -15,12 +15,14 @@ I'm always open to have a talk about anything. I love awesome contributions and 
 ![Generic badge](https://img.shields.io/badge/Akshat-Gupta-orange) 
 
 ## My Tech Stack :computer:
-<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Zurb_Foundation-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-Azure-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-Heroku-pink?style=for-the-badge">  <img src="https://img.shields.io/badge/-SEO-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-SEM-purple?style=for-the-badge">
+<img src="https://img.shields.io/badge/-HTML-red?style=for-the-badge" alt="HTML"> <img src="https://img.shields.io/badge/-CSS-purple?style=for-the-badge" alt="CSS"> <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge" alt="JavaScript"> <img src="https://img.shields.io/badge/-Git-blue?style=for-the-badge" alt="Git"> <img src="https://img.shields.io/badge/-GitHub-green?style=for-the-badge" alt="GitHub"> <img src="https://img.shields.io/badge/-MaterializeCSS-pink?style=for-the-badge" alt="MaterializeCSS"> <img src="https://img.shields.io/badge/-Bootstrap-red?style=for-the-badge" alt="Bootstrap"> <img src="https://img.shields.io/badge/-Zurb_Foundation-purple?style=for-the-badge" alt="Zurb Foundation"> <img src="https://img.shields.io/badge/-JQuery-yellow?style=for-the-badge" alt="JQuery"> <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge" alt="React"> <img src="https://img.shields.io/badge/-Azure-green?style=for-the-badge" alt="Azure"> <img src="https://img.shields.io/badge/-GCP-pink?style=for-the-badge" alt="GCP"> <img src="https://img.shields.io/badge/-Heroku-red?style=for-the-badge" alt="Heroku"> <img src="https://img.shields.io/badge/-SEO-purple?style=for-the-badge" alt="SEO"> <img src="https://img.shields.io/badge/-SEM-yellow?style=for-the-badge" alt="SEM">
 
 ## What I Am Learning :books:
 <img src="https://img.shields.io/badge/-Flutter-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-Django-purple?style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-AWS-blue?style=for-the-badge">
 
 ## My Certifications :arrow_down:
+- [Microsoft Certified: Azure Fundamentals](https://www.youracclaim.com/badges/92059ed2-9f17-4b35-abda-23c1c9d3ff53) (Credential ID: CbcH-Dw8E).
+- [Google Cloud Platform Business Professional Accreditation](https://skillshop.exceedlms.com/student/award/63280081) (Credential ID: 63280081).
 - [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) (Credential ID: P7V 2QN 63L).
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/certificate/e14d1cd4-183c-43d3-aaad-34d05c6a82b6)
 - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/7PLZLGHTCPFZ) (Credential ID: 7PLZLGHTCPFZ).

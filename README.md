@@ -26,6 +26,7 @@ I'm always open to have a talk about anything. I love awesome contributions and 
 - [The Fundamentals of Digital Marketing](https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code) (Credential ID: P7V 2QN 63L).
 - [Microsoft Learn Student Ambassador](https://studentambassadors.microsoft.com/certificate/e14d1cd4-183c-43d3-aaad-34d05c6a82b6)
 - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/verify/7PLZLGHTCPFZ) (Credential ID: 7PLZLGHTCPFZ).
+- [All Other Certificates](https://bit.ly/akshatvgCertificates).
 
 ## My Activities :mailbox_with_mail:
 

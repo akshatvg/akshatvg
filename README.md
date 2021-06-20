@@ -35,6 +35,7 @@ I'm always open to have a talk about anything. I love awesome contributions and 
 | [Web Development 101](https://medium.com/codechef-vit/web-development-101-with-codechefvit-4ec369e86f68)| [Frontend Web Basics](https://www.youtube.com/watch?v=7E5sDcNUKNo) |
 | [My First Hackathon's Experience](https://medium.com/@akshatvg/my-first-hackathons-experience-8c8ef23a055d)| [Bootstrap Crash Course](https://www.youtube.com/watch?v=IZS2wlG1mew) |
 | [Convert your Website into a PWA](https://medium.com/codechef-vit/convert-your-website-into-a-pwa-ee8f6b67bca7)| [DSC Afterhours - Hacktoberfest and Open Source Stories](https://www.youtube.com/watch?v=H5nURvprvkc&feature=youtu.be) |
+| [Building Your Own Many To Many, Live Video Streaming Using The Agora Web SDK](https://www.agora.io/en/blog/build-your-own-many-to-many-live-video-streaming-using-the-agora-web-sdk/)| [Agora Certificate Program - Working with the Agora SDK](https://www.youtube.com/watch?v=HxSOQFZL9wE) |
 
 ---
 

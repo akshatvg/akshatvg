@@ -8,7 +8,7 @@ I'm always open to have a talk about anything. I love awesome contributions and 
 
 <p align="center">
 <a href="https://www.akshatvg.com">
-<img src="https://www.akshatvg.com/assets/img/Public_Speaking_akshatvg.jpg" height="240px" alt="Akshat Gupta"/>
+<img src="https://www.akshatvg.com/static/media/Public_Speaking_akshatvg.a93d49d9.jpeg" height="240px" alt="Akshat Gupta"/>
 </a>
 </p>
 

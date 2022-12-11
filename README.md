@@ -9,7 +9,7 @@ I am passionate about my current role which is primarily focused on project mana
 
 <p align="center">
 <a href="https://www.akshatvg.com">
-<img src="https://www.akshatvg.com/static/media/Public_Speaking_akshatvg.a93d49d9.jpeg" height="240px" alt="Akshat Gupta"/>
+<img src="https://www.akshatvg.com/static/media/Public_Speaking_akshatvg.a93d49d910ba9c3f9206.jpeg" height="240px" alt="Akshat Gupta"/>
 </a>
 </p>
 

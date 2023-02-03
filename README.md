@@ -1,9 +1,8 @@
 # Akshat Gupta 👨🏻‍💻
 
-Hailing from Chennai in India, I currently work at LegalForce RAPC Worldwide as an **Operations and Project Manager**. I lead the Engineering, Design, and Product teams for four ventures within the company, comprising more than 50 personnel that are operating from various locations across the globe.
+Hailing from Chennai in India, I currently work at LegalForce RAPC Worldwide as an **Operations and Engineering Manager**. I lead the Engineering, Design, and Product teams for multiple ventures within the company, comprising more than 50 personnel that are operating from various locations across the globe.
 
-
-I started my career as a **Software Developer** where I explored multiple technical domains till I found the right fit for me- **Web Development**. In my eagerness to keep exploring, I also learned about SEO, SEM, and **Digital Marketing** in my free time. While pursuing my undergraduate degree, I co-founded a service-based **startup** along with a few friends, which honed my business acumen and entrepreneurial instincts. 
+I started my career as a **Software Developer** where I explored multiple technical domains till I found the right fit for me- **Web Development**. In my eagerness to keep exploring, I also learned about SEO, SEM, and **Digital Marketing** in my free time. While pursuing my undergraduate degree, I co-founded a service-based **startup** along with a few friends, which honed my business acumen and entrepreneurial instincts. I am passionate about my current role which is primarily focused on technical project management; the role occasionally also requires me to roll up my sleeves and showcase my technological prowess.
 
 I am passionate about my current role which is primarily focused on project management; the role occasionally also requires me to roll up my sleeves and showcase my technological prowess.
 

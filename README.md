@@ -10,6 +10,8 @@ CEO of <a href="https://www.peritys.com">Peritys</a> and entrepreneur from Chenn
 - ***Strategic IT Consultancy:*** Aligning technology strategies with business goals to optimize growth and process efficiency.
 - ***Financial Stewardship:*** Skilled in navigating the financial and operational facets of business to fuel sustainable growth.
 
+I am driven by the challenge of turning the nascent stages of ideas into thriving business entities, demonstrating a keen ability to scale ventures from zero to one across diverse global landscapes.
+
 <p align="center">
 <a href="https://www.akshatvg.com">
 <img src="https://www.akshatvg.com/static/media/Public_Speaking_akshatvg.a93d49d910ba9c3f9206.jpeg" height="240px" alt="Akshat Gupta"/>

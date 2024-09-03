@@ -1,6 +1,6 @@
 # Akshat Gupta 👨🏻‍💻
 
-CEO of <a href="https://www.peritys.com">Peritys</a> and entrepreneur from Chennai, India, I specialize in leveraging IT and marketing consultancy to bring SaaS innovations like <a href="https://www.interacts.ai">Interacts AI</a> to market. My journey began with founding VAMSA Tech Private Limited during my university years, where I discovered my passion for converting groundbreaking ideas into reality. My experience includes a leadership role at LegalForce RAPC Worldwide, guiding global teams in engineering, design, and product management.
+As a Consultant of <a href="https://www.peritys.com">Peritys</a>, I leverage IT and marketing consultancy to drive innovative SaaS solutions. As Co-Founder of <a href="https://www.interacts.ai">Interacts AI</a>, I develop cutting-edge AI-driven customer engagement technologies. With a forward-thinking approach, I excel in strategic planning, precise execution, and efficient decision-making, crafting software solutions that address real-world challenges and foster business growth.
 
 **What I bring to the table:**
 - ***Strategic Leadership:*** Proven ability in ideation, developing offshore development centers, and global expansion, transforming concepts into profitable business models.
